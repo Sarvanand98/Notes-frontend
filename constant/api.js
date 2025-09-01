@@ -1,0 +1,1 @@
+export const API_BASE = "https://notes-backend-v8uh.onrender.com/api";
